@@ -19,5 +19,8 @@
   "homepage": "https://github.com/SahilDahat/webcrawlerHTTPS#readme",
   "devDependencies": {
     "jest": "^29.4.1"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0"
   }
 }
