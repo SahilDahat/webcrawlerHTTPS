@@ -12,3 +12,8 @@ FOR TEST DRIVEN DEVELOPMENT, THERE ARE 3 STEPS:
 2. WRITE THE TESTS FOR THE FUNCTION.
 3. GO BACK AND IMPLEMENT IT.
 */
+
+https://www.youtube.com/watch?v=2JYT5f2isg4
+https://github.com/SahilDahat/webcrawlerHTTPS
+https://boot.dev/learn/learn-http
+https://github.com/bootdotdev/fcc-learn-http-assets
